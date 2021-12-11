@@ -1,7 +1,7 @@
 """
-project_name base module.
+code_challenges base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the code_challenges project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
